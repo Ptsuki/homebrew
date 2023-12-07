@@ -1,2 +1,2 @@
-# homebrew
-wait
+# mac os
+enjoy it
